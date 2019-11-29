@@ -20,4 +20,4 @@ flask框架初始化模板
 
 ## 截图
 ### 主页（hello world）
-![主页]()
+![主页](https://github.com/ZhuangleiScut/flask-init/blob/master/app/static/%E6%88%AA%E5%9B%BE.png)
