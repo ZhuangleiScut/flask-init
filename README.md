@@ -1,5 +1,5 @@
 # flask框架模板
-flask框架初始化模板
+flask框架初始化模板，包含flask框架初始化功能。
 
 ## Features
  - [x] 配置文件
@@ -12,6 +12,7 @@ flask框架初始化模板
  - flask_script
  - flask_migrate
  - flask_login
+ - pymysql
 
 
 ## 更新
