@@ -8,7 +8,11 @@ flask框架初始化模板，包含flask框架初始化功能。
  - [x] 蓝图
 
 ## 使用
-**1、依赖**
+**1、依赖** 
+
+一键安装依赖：
+```pip install -r requirements.txt```
+
  - flask_script
  - flask_migrate
  - flask_login
